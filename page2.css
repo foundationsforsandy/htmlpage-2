@@ -1,0 +1,35 @@
+.header-1 {
+    color: grey
+    font: Arial;
+    font-size: 24pt;
+    font-weight:bolder;
+}
+.header-2 {
+    color: teal;
+    font: arial; 
+    font-weight: bold;
+    font-size: 36pt;
+}
+.footer {
+    color: indigo;
+    size: 24pt;
+    font-weight: bold;
+    font: comic;
+}
+#paragraph-1 {
+    color:darkslategray;
+    font:comic;
+    font-size: 24pt;
+    font-weight: bold;
+}
+#paragraph-2 {
+    color: rosybrown;
+    font: Times;
+    font-size: 24pt;
+}
+
+#paragraph-3 {
+    font: comic;
+    size: 16pt;
+    color:darkolivegreen;
+}
