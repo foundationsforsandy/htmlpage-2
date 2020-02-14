@@ -1,0 +1,58 @@
+.header-1 {
+    color: grey
+    font: Arial;
+    font-size: 36pt;
+    margin: auto;
+}
+#paragraph-1 {
+    color: rgb(217, 54, 49);
+    font:comic;
+    font-size: 24pt;
+}
+#paragraph-2 {
+    color: rosybrown;
+    font: Times;
+    font-size: 24pt;
+}
+
+#paragraph-3 {
+    font: arial;
+    size: 36pt;
+    color: rgb(117, 50, 205);
+}
+.header-2 {
+    color: teal;
+    font: arial; 
+    font-weight: bold;
+    font-size: 36pt;
+}
+
+.footer {
+    color: indigo;
+    size: 24pt;
+    font-weight: bold;
+    font: comic;
+}
+
+form.form-example {
+    display: table;
+}
+
+div.form-example {
+    display: table-row;
+}
+
+label, input {
+    display: table-cell;
+    margin-bottom: 16px;
+}
+
+label {
+    padding-right: 16px;
+}
+
+#label {
+    font: comic;
+    size: 16pt;
+    font-weight: bold;
+}
