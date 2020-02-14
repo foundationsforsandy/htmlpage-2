@@ -1,26 +1,28 @@
-.header-1 {
-    color: grey
-    font: Arial;
-    font-size: 24pt;
-    font-weight:bolder;
-}
 .header-2 {
     color: teal;
     font: arial; 
     font-weight: bold;
     font-size: 36pt;
 }
-.footer {
+.grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 200px 200px;
+    grid-gap: 0.5em;
+    width: 50%;
+    margin: auto;
+  }
+  .footer {
     color: indigo;
     size: 24pt;
     font-weight: bold;
     font: comic;
 }
 #paragraph-1 {
-    color:darkslategray;
+    color: grey;
     font:comic;
-    font-size: 24pt;
-    font-weight: bold;
+    font-size: 36pt;
+    font-weight:bolder;
 }
 #paragraph-2 {
     color: rosybrown;
@@ -29,7 +31,7 @@
 }
 
 #paragraph-3 {
-    font: comic;
-    size: 16pt;
-    color:darkolivegreen;
+    font: arial;
+    size: 36pt;
+    color: rgb(117, 50, 205);
 }
