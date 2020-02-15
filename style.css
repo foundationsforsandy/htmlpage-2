@@ -22,7 +22,7 @@
 }
 .header-2 {
     color: teal;
-    font: arial; 
+    font: (helvetica,comic); 
     font-weight: bold;
     font-size: 36pt;
 }

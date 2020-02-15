@@ -33,3 +33,9 @@
     size: 16pt;
     color:darkolivegreen;
 }
+
+#background2 {
+    background: url(https://media.giphy.com/media/t7Qb8655Z1VfBGr5XB/giphy.gif);
+    background-repeat: repeat;
+    background-size: cover;
+}
