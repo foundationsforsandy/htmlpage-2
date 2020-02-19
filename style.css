@@ -1,18 +1,26 @@
 .header-1 {
-    color: grey
+    color:darkslategrey;
     font: Arial;
     font-size: 36pt;
     margin: auto;
 }
 #paragraph-1 {
-    color: grey;
+    color: rgb(11, 219, 247);
     font:comic;
     font-size: 24pt;
+    font-weight: bold;
 }
 #paragraph-2 {
-    color: rosybrown;
-    font: Times;
+    color: rgb(39, 236, 194);
+    font: comic;
     font-size: 24pt;
+    font-weight:bolder;
+}
+
+#paragraph-3 {
+    color: black;
+    font: comic;
+    font-size: 16pt;
 }
 
 #paragraph-3 {
@@ -21,9 +29,9 @@
     color: rgb(117, 50, 205);
 }
 .header-2 {
-    color: teal;
-    font: (helvetica,comic); 
-    font-weight: bold;
+    color:black;
+    font: (comic); 
+    font-weight: bolder;
     font-size: 36pt;
 }
 
@@ -56,3 +64,6 @@ label {
     size: 16pt;
     font-weight: bold;
 }
+a:visited {
+    color: rgb(224, 157, 224);
+  }

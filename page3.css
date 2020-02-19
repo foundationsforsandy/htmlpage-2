@@ -35,3 +35,6 @@
     size: 36pt;
     color: rgb(117, 50, 205);
 }
+a:visited {
+    color: rgb(224, 157, 224);
+  }
