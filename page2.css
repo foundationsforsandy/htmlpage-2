@@ -1,5 +1,5 @@
 .header-1 {
-    color: grey
+    color: rgb(238, 153, 153);
     font: Arial;
     font-size: 24pt;
     font-weight:bolder;
@@ -17,7 +17,7 @@
     font: comic;
 }
 #paragraph-1 {
-    color:darkslategray;
+    color:rgb(204, 236, 236);
     font:comic;
     font-size: 24pt;
     font-weight: bold;
@@ -39,3 +39,6 @@
     background-repeat: repeat;
     background-size: cover;
 }
+a:visited {
+    color: rgb(224, 157, 224);
+  }
